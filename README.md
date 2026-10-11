@@ -30,7 +30,7 @@ Run `python3 -m http.server 8743 --directory climax_v2` from the parent folder, 
 - [ ] Add the **Instagram / Facebook / TikTok** links and an email.
 - [ ] Check the wording on the home page (pool tables, big-screen sport, DJ and dance floor, loungers, rooftop, food served poolside). It's based on the photos and the Google listing.
 - [ ] **Hero image:** `images/Ugandan Poolside Gathering at Golden Dusk.png` is an AI-generated mood image, not a photo of Climax. Replace `assets/img/hero-dusk.webp` and `-sm.webp` with a real dusk photo of the venue when you have one (1600px and 800px wide).
-- [ ] Set the real domain in the Open Graph and schema tags once the site has an address.
+- [ ] The preview runs at https://victoriapuglia.github.io/climax-preview/ — when the site gets its own domain, update the og:image and schema URLs in the HTML.
 
 ## Design
 Fonts: Bodoni Moda (headings) and Jost (text), both from Google Fonts. Colours: forest `#13281f`, ink `#0b100d`, paper `#f5f0e6`, gold `#c4a265`. The sign's neon green only appears as the small dot in the header clock. Sharp corners, thin rules, and no rounded cards.
